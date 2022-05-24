@@ -1,0 +1,12 @@
+.wide{
+  width: 200px;
+}
+
+body{
+  height: 2000px;
+}
+
+.container{
+  height: 200px;
+  overflow: scroll;
+}
